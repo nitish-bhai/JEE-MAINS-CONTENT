@@ -1,0 +1,885 @@
+[
+  {
+    "question_number": 1,
+    "subject": "Mathematics",
+    "question": "Let \n, \n, \n and \n be the coefficients of x\n7\n, x\n5\n, x\n3\n and\nx respectively in the expansion of \n, x > 1. If u and v \nsatisfy the equations \nu + \nv = 18,\nu + \nv = 20,\nthen u + v equals :",
+    "options": {
+      "1": "5",
+      "2": "4",
+      "3": "3",
+      "4": "8"
+    },
+    "answer": "1",
+    "solution": "Sol. \n= 2{\n5\nC\n0\n.x\n5 \n+ \n5\nC\n2\n.x\n3\n(x\n3\n \n 1) + \n5\nC\n4\n.x(x\n3 \n 1)\n2\n}\n= 2{5x\n7 \n+ 10x\n6 \n+x\n5 \n 10x\n4\n \n 10x\n3\n + 5x} \n = 10, \n = 2, \n \n= \n20, \n = 10\nNow, 10u + 2v= 18 \n20u + 10v = 20\nu = 1, v = 4\nu + v = 5"
+  },
+  {
+    "question_number": 2,
+    "subject": "Mathematics",
+    "question": "In a group of 3 girls and 4 boys, there are two boys\nB\n1\n and B\n2\n. The number of ways, in which these \ngirls and boys can stand i n a queue such t hat all the \n\ngirls stand together , all the boys stand toget her , but \n\nB\n1\n and B\n2\n are not adjacent  to each other , is :",
+    "options": {
+      "1": "144",
+      "2": "72",
+      "3": "96",
+      "4": "120"
+    },
+    "answer": "1",
+    "solution": "Sol. \nTotal \n when B\n1\n \nand B\n2\n are together \n= \n2!(3! 4\n!) \n 2! (3!(3! 2\n!)\n) = 144"
+  },
+  {
+    "question_number": 3,
+    "subject": "Mathematics",
+    "question": "Let P\nbe a point on the parabol a y\n2\n = 4ax\nand PQ be a focal chord of the parabola. If M and\nN ar e the foot of perpendiculars drawn from P and\nQ respectivel y on the directrix of the parabola,\nthen the ar ea of the quadrilateral  PQMN is equal\n\nto:",
+    "options": {
+      "1": "",
+      "3": "",
+      "4": ""
+    },
+    "answer": "3",
+    "solution": "Sol. \n(4, 4\n)lies on y\n2\n = 4ax\n48 =4a.4\n4a = 12\ny\n2\n = 12x is equation of par abola\nNow, par ameter of P is t\n1\n \n= \nParameters of Q\nis t\n2\n \n= \n \n Q\nArea of trapezi um PQNM  \n= \nMN.(PM + QN) \n= \nMN.(PS + QS) \n= \nMN. PQ \n= \n = 3"
+  },
+  {
+    "question_number": 4,
+    "subject": "Mathematics",
+    "question": "For a 3 \u00d7 3 matrix M, let trace (M)  denote the sum\nof all the diagonal  el ements of M. Let A be a 3 \u00d7 3\nmatrix such that  |A| = \n and trace (A) = 3. If \nB = adj (adj(2A)), then the val ue of|B| + trace(B)\nequals:",
+    "options": {
+      "1": "56",
+      "2": "132",
+      "3": "174",
+      "4": "280"
+    },
+    "answer": "4",
+    "solution": "Sol. \n|A|=\n, trace(A) = 3, B = adj(adj (2A))=|2A|\nn\n2\n(2A) \nn = 3, B = |2A|(2A) = 2\n3\n.|A|(2A) =8A \n|B| = |8A| = 8\n3\n.|A| = 2\n8\n = 256 \ntrace(B) = 8trace(A) =24 \n|B| + t race( B) = 280"
+  },
+  {
+    "question_number": 5,
+    "subject": "Mathematics",
+    "question": "Suppose that the number of terms in an A.P. is 2k,\nk\nN. If the sum of all odd terms of the A.P. is 40,\nthe sum of all even terms is 55 and the last term of\nthe A.P. exceeds the first term by 27, then k is\n\nequal to",
+    "options": {
+      "1": "5",
+      "2": "8",
+      "3": "6",
+      "4": "4"
+    },
+    "answer": "1",
+    "solution": "Sol. \na\n1\n, a\n2\n, a\n3\n\n2k \n A. P.\n, \n, a\n2k\n \n a\n1\n = 27  \n[2a\n1\n + (k \n 1)2d] = 40, \n[2a\n2\n + (k \n 1)2d] = 55, \nd = \na\n1\n \n= \n(k \n 1)d =\nkd\nd = \n \n \n =\n\n 9k =10k \n 5\nk = 5"
+  },
+  {
+    "question_number": 6,
+    "subject": "Mathematics",
+    "question": "Let a line pass through two distinct points\nP(\n2, \n1, 3) and Q, and be par allel to the vector\n. If the distance of  the poi nt Q from the \npointR(1, 3, 3) is 5, then the square of the area of \nPQR is equal  to:",
+    "options": {
+      "1": "136",
+      "2": "140",
+      "3": "144",
+      "4": "148"
+    },
+    "answer": "1",
+    "solution": "Sol. \n par allelto \n, R(1, 3, 3)\nQ(3\n \n 2, 2\n  \n 1, 2\n +3), \n \n \nR \n {0}\n = 5 = \n17\n2 \n 34\n +25 = 25 \n\n\nQ(4, 3, 7), P(\n2, \n1, 3), R(1, 3, 3)\nArea of \nPQR = [PQR] = \n[PQR] = \n[PQR] = \n[PQR]\n2\n = 136"
+  },
+  {
+    "question_number": 7,
+    "subject": "Mathematics",
+    "question": "If\n= \n,  then the value of \nequals :",
+    "options": {
+      "1": "Sol.",
+      "2": "e",
+      "3": "e",
+      "4": "e"
+    },
+    "answer": null,
+    "solution": ""
+  },
+  {
+    "question_number": 8,
+    "subject": "Mathematics",
+    "question": "Let f(x) =\ndt, x \n \nR\n. Then the\nnumbers of local  maximum and local minimum \npoints of f, respectivel y, are :",
+    "options": {
+      "1": "2 and 3",
+      "2": "3 and 2",
+      "3": "1 and 3",
+      "4": "2 and 2"
+    },
+    "answer": "1",
+    "solution": "Sol. \nf\n \n(x) = \n=\n=\nMaxima at  x \n {\n} \nMinima at x \n {\n} \n2 points of maxima and 3 points of  minima."
+  },
+  {
+    "question_number": 9,
+    "subject": "Mathematics",
+    "question": "The perpendicular distance, of the line \n from the point P(2, \n10,1), is:",
+    "options": {
+      "1": "6"
+    },
+    "answer": "3",
+    "solution": "Sol. \n(2\n + 1, \n \n 2, 2\n \n 3) \n(2\n \n 1)2 + (\n + 8)(\n1) + (2\n \n 4)2 =0\n4\n \n 2 + \n \n 8 + 4\n \n 8 = 0\n9\n \n 18 = 0  \n  \n = 2\nA(5, \n4, 1)\nAP =\n= \n="
+  },
+  {
+    "question_number": 10,
+    "subject": "Mathematics",
+    "question": "If x = f(y) is the solution of the differential\nequation\n(1 + y\n2\n) \n+ \n= 0, y \n \nwith f(0) = 1,then f\n is equal to :",
+    "options": {
+      "1": "e",
+      "2": "e",
+      "3": "e",
+      "4": "e"
+    },
+    "answer": "4",
+    "solution": "Sol. \nI.F. = \nPut tan\n1\ny = t,  \n y = 0,  x= 1\n1 = 1 + c \n c = 0  \ny = \n,  x = e\n/6"
+  },
+  {
+    "question_number": 11,
+    "subject": "Mathematics",
+    "question": "If \ndx\n = g(x)+\n \nC,\n \nwher e C is the constant  of integration, then \nequals :",
+    "options": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    "answer": "3",
+    "solution": "Sol. \n \n= \n = g(x) + C \nNote :  assuming g(x) = \ng(1/2) = \n \n="
+  },
+  {
+    "question_number": 12,
+    "subject": "Mathematics",
+    "question": "Let \n and \n be the distinct  roots of\n2x\n2\n + (cos\n)x \n1 = 0, \n \n (0, 2\n). If m and M ar e\nthe minimum and the maximum val ues of \n, \nthen 16(M + m) equals :",
+    "options": {
+      "1": "24",
+      "2": "25",
+      "3": "27",
+      "4": "17"
+    },
+    "answer": "2",
+    "solution": "Sol. \n(\n2\n \n+ \n2\n)\n2\n \n 2\n2\n2\n \n[(\n \n+ \n)\n2\n \n 2\n\n]\n2\n \n \n2(\n\n)\n2\n \n, 16(M +m) = 25"
+  },
+  {
+    "question_number": 13,
+    "subject": "Mathematics",
+    "question": "Let A = {1, 2, 3, 4} and B = {1, 4, 9, 16}. Then t he\nnumber of many-one functions f : A \n B such that \n1 \n f(A) is equal to :",
+    "options": {
+      "1": "127",
+      "2": "151",
+      "3": "163",
+      "4": "139"
+    },
+    "answer": "2",
+    "solution": "Sol. \nTotal = 4\n4\n \nOne-one = 4! \nMany-one = 256 \n 24 = 232 \nMany-one which 1 \nf(A) \n= 3.3.3.3= 81 \n232 \n 81 = 151"
+  },
+  {
+    "question_number": 14,
+    "subject": "Mathematics",
+    "question": "If the system of linear equations :\nx + y + 2\nz = 6,\n2x + 3y + az = a + 1,\nx \n 3y +bz = 2b,\nwher e a, b \n \nR\n, ha\ns \ninfinitel y many solutions, then \n7a + 3b is equal to :",
+    "options": {
+      "1": "9",
+      "2": "12",
+      "3": "16",
+      "4": "22"
+    },
+    "answer": "3",
+    "solution": "Sol. \n \n= \n = 0 \n2a + b \n 6 = 0\n\n \n \n=\n = 0 \na + b \n 8 = 0\n\n \nSolving (1) +(2) \na = \n2, b = 10 \n7a + 3b = 16"
+  },
+  {
+    "question_number": 15,
+    "subject": "Mathematics",
+    "question": "Let \n and \n be two unit vect ors such that the\nangl e bet ween them is \n. If \n and \n \nar e perpendicular to each other, then the number of \nval ues of \n in [\n1, 3] is :",
+    "options": {
+      "1": "3",
+      "2": "2",
+      "3": "1",
+      "4": "0"
+    },
+    "answer": "4",
+    "solution": "Sol. \nNow \n \n2\n2\n \n 6 = 0\n= \nnumber of val ues = 0"
+  },
+  {
+    "question_number": 16,
+    "subject": "Mathematics",
+    "question": "Let E :\n= 1, a > b and H :\n = 1.  \nLet the distance between the foci of E and the foci \nof H be \n. If a \n A = 2, and the ratio of the \neccentricities of E and H is \n, then the sum of the \nlengths of their latus rectums is equal to :",
+    "options": {
+      "1": "10",
+      "2": "7",
+      "3": "8",
+      "4": "9"
+    },
+    "answer": "3",
+    "solution": "Sol. \n foci are (ae, 0) and (\nae, 0)\n foci are ( Ae\n, 0) and (\nAe\n, 0)\n2ae = \n  ae\n = \nand 2Ae\n \n= \n \n  \nAe\n \n= \nae = Ae\n\n \n a = 3A\nNow a \n A = 2  \n \na \n \n2  \n a = \n3 and A = 1\nAe = \n e = \n and e\n \n= \nb\n2\n = a\n2\n(1 \n e\n2\n)   \nb\n2\n = 6 \nand B\n2\n = A\n2\n((e\n\n2\n \n 1) = (2) \n B\n2\n = 2\n \nsum of LR = \n= 8"
+  },
+  {
+    "question_number": 17,
+    "subject": "Mathematics",
+    "question": "If A and B are two events such that \n= 0.1,\nand \nand \nar e the roots of the\nequation 12x\n2\n \n 7x + 1 = 0, then the value of\nis:",
+    "options": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    "answer": "3",
+    "solution": "Sol. \n12x\n2\n \n 7x + 1 = 0 \nx = \nLet \n \n& \n& \nP(B) = 0.3\n& P(A) = 0.4\nP(A \n B) = P(A) + P(B) \n P(A \n \nB)\n= 0.3 + 0.4 \n 0.1 = 0.6\nNow \n \n= \n= \n \n= \n \n="
+  },
+  {
+    "question_number": 18,
+    "subject": "Mathematics",
+    "question": "The sum of all values of \n \n [0, 2\n] satisf ying\n2sin\n2\n =  cos2\n and 2cos\n2\n = 3sin\n is",
+    "options": {
+      "1": "",
+      "2": "4",
+      "3": ""
+    },
+    "answer": "4",
+    "solution": "Sol. \n2sin\n2\n = cos2\n\n2sin\n2\n = 1 \n 2sin\n2\n\n4sin\n2\n = 1 \nsin\n2\n \n=\nsin\n = \u00b1\n2cos\n2\n = 3sin\n2 \n 2sin\n2\n +3sin\n 2 = 0\n(2sin\n \n 1)(2sin\n \n 2) = 0\nsin\n \n= \nso\n common equation which satisf y both equations \nis sin\n \n= \n(\n\n[0, 2\n])\nSum ="
+  },
+  {
+    "question_number": 19,
+    "subject": "Mathematics",
+    "question": "Let the curve z( 1 + i) + \n= 4, z \n C, divide\nthe region |z \n 3| \n1 into two par ts of areas \n and\n. Then |\n \n \n| equals :",
+    "options": {
+      "2": "",
+      "4": ""
+    },
+    "answer": "1",
+    "solution": "Sol. \nLet z = x + iy \n(x +iy)(1 +i) + (x \n iy)(1 \n i) = 4 \nx + i x + i y \n y +x \n ix \n iy \n y = 4 \n2x \n 2y =4 \nx \n y = 2 \n|z \n 3| \n 1\n \n(x \n \n3)\n2\n + y\n2\n \n  1 \nArea of shaded region = \n=\nArea of unshaded region inside the circle  \n= \n=\ndifference of ar ea =\n="
+  },
+  {
+    "question_number": 20,
+    "subject": "Mathematics",
+    "question": "The ar ea of the region encl osed by the curves\ny = x\n2\n \n 4x + 4and y\n2\n = 16 \n 8x is :",
+    "options": {
+      "1": "",
+      "3": "5",
+      "4": "8"
+    },
+    "answer": "1",
+    "solution": "Sol. \ny = (x \n2)\n2\n, y\n2\n = 8(x \n \n2)\n \n y = x\n2\n , y\n2\n \n= \n 8x \n \n= \nSECTION-B"
+  },
+  {
+    "question_number": 21,
+    "subject": "Mathematics",
+    "question": "Let y = f(x) be the solution of the differential\nequation \n, \n1 < x < 1 such \nthat  f(0) = 0. If 6 \nthen \n2\nis \nequal to __________.",
+    "options": {},
+    "answer": "27",
+    "solution": "Sol. \nI.F. \nGiven y(0) = 0 \n c = 0 \nNow, \nPut x = sin\n \ndx = cos\n d\n  \n= \n="
+  },
+  {
+    "question_number": 22,
+    "subject": "Mathematics",
+    "question": "Let A(6, 8), B(10 cos\n, \n10 sin\n) and\nC (\n10 sin\n, 10 cos\n), be the vertices of a triangle.\nIf L(a, 9) and G(h, k) be its orthocenter  and\ncentroid respectively, then (5a \n 3h + 6k + 100 sin2\n)\nis equal to___________",
+    "options": {},
+    "answer": "145",
+    "solution": ""
+  },
+  {
+    "question_number": 23,
+    "subject": "Mathematics",
+    "question": "Let the distance between two parallel lines be\n5 units and a point P lie between the lines at a unit\ndistance from one of them . An equilater al triangle\nPQR is formed such that Q lies on one of the\npar allel lines, while R lies on the other. Then ( QR)\n2\nis equal  to ________.",
+    "options": {},
+    "answer": "28",
+    "solution": "Sol. \nPR = cosec\n, PQ =4sec( 30 + \n) \nFor equilater al\nd = PR = PQ\ncos(\n + 30\u00b0) = 4sin\n \n \nQR\n2\n = d\n2\n = cosec\n2\n = 28"
+  },
+  {
+    "question_number": 24,
+    "subject": "Mathematics",
+    "question": "If\n= \n \u00d7 2\n29\n, then \n is equal to\n______.",
+    "options": {},
+    "answer": "465",
+    "solution": "Sol. \n= \n= \n= \n= \n= \n= 30(29 \u00d7 2\n28\n + 2\n29\n) = 30(29 + 2)2\n28\n \n= 15 \u00d7 31 \u00d7 2\n29\n \n= 465(2\n29\n) \n= 465"
+  },
+  {
+    "question_number": 25,
+    "subject": "Mathematics",
+    "question": "Let A = {1, 2, 3}. The number of relations on A,\ncont aining (1, 2) and (2, 3), which are reflexive\nand transitive but not symmetric, is ______.",
+    "options": {},
+    "answer": "3",
+    "solution": "Sol. \nTransitivity \n(1, 2) \n R, (2, 3) \n \nR \n (1, 3) \n R \nFor reflexive (1, 1), (2, 2) (3, 3) \n R \nNow (2, 1), (3, 2), (3, 1) \n(3, 1) cannot be taken \n(1)(2, 1) taken and (3, 2) not taken\n(2)(3, 2) taken and (2, 1) not taken\n(3)Both not taken\ntheref ore 3 relations are possible."
+  },
+  {
+    "question_number": 26,
+    "subject": "Physics",
+    "question": "A symmetric thin biconvex lens is cut into four\nequal parts by two planes AB and CD as shown in\nfigure. If the power of original  lens is 4D then the\npower  of a part of the divided l ens is",
+    "options": {
+      "1": "8D",
+      "2": "4D",
+      "3": "D",
+      "4": "2D"
+    },
+    "answer": "4",
+    "solution": "Sol."
+  },
+  {
+    "question_number": 27,
+    "subject": "Physics",
+    "question": "A small rigid spherical ball of mass M is dropped\nin a long vertical tube containing glycerine. The\nvel ocity of the ball becomes constant after some\ntime. If the density of glycerine is half of the\ndensity of the ball, then the viscous force acting on\nthe ball will be\n(consider g as acceleration due t o gravity)",
+    "options": {
+      "1": "",
+      "2": "",
+      "3": "Mg",
+      "4": "2 Mg"
+    },
+    "answer": "2",
+    "solution": "Sol. \nmg \n F\nB\n \n f = 0 \n mg \n \n \n f = 0\nf ="
+  },
+  {
+    "question_number": 28,
+    "subject": "Physics",
+    "question": "The maximum percentage er ror in the measurment\nof density of a wire is\n[Given,   mass of wire = (0.60 \u00b1  0.003)g\nradius of wire = (0.50 \n\u00b1 0.01)cm \nlength of wire (10.00 \u00b1 0.05)cm]",
+    "options": {
+      "1": "4",
+      "2": "5",
+      "3": "8",
+      "4": "7"
+    },
+    "answer": "2",
+    "solution": "Sol."
+  },
+  {
+    "question_number": 29,
+    "subject": "Physics",
+    "question": "A series LCR ci rcuit is connected to an alternating\nsour ce of emf E. The current amplitude at  resonant\nfrequency is I\n0\n. If the val ue of resistance R\nbecomes twice of its initial val ue t hen amplitude of\n\ncur rent  at  resonance will be",
+    "options": {
+      "1": "I",
+      "2": "",
+      "4": "2I"
+    },
+    "answer": "2",
+    "solution": "Sol. \nInitially, \nFinally,"
+  },
+  {
+    "question_number": 30,
+    "subject": "Physics",
+    "question": "For a short dipole placed at  origin O, the dipole\nmoment P is along x-axis, as shown in the figure.\nIf the electric potential and electric field at A are\nV\n0\n and E\n0\n, respectively, then the correct\ncom bination of the electric potential and electric\n\nfield, respectively, at  point B on the y-axis is given\nby",
+    "options": {
+      "1": "and",
+      "2": "zer o and",
+      "3": "zer o and",
+      "4": "V"
+    },
+    "answer": "3",
+    "solution": "Sol. \n& V\nA\n \n=\nE\nB\n \n= \n&"
+  },
+  {
+    "question_number": 31,
+    "subject": "Physics",
+    "question": "Whi ch one of the following is the correct\ndimensional formula for the capacitance in F ? M,\nL, T and C stand for unit of mass, length, time and\n\ncharge,",
+    "options": {
+      "1": "[F] = [C",
+      "2": "[F] = [CM",
+      "3": "[F] = [CM",
+      "4": "[F] = [C"
+    },
+    "answer": "4",
+    "solution": "Sol. \n="
+  },
+  {
+    "question_number": 32,
+    "subject": "Physics",
+    "question": "An el ectron projected perpendicular  to a uniform\nmagnetic field B moves in a circle. If Bohr's\nquantization is applicable, then the radius of the\n\nel ectronic or bit in the first exci ted state is :",
+    "options": {
+      "2": "",
+      "4": ""
+    },
+    "answer": "4",
+    "solution": "Sol. \nr = \n & mvr = \n(\neBr)r =\n \nfirst excited state :  n = 2 \n r ="
+  },
+  {
+    "question_number": 33,
+    "subject": "Physics",
+    "question": "For a diatomic gas, if\nfor rigid \nmolecules and \nfor another  diatomic \nmolecules, but also having vibrational modes. \nThen, which one of the following options is  \ncor rect ? \n(\nCp\n and Cv\n \nare specific heats of the gas at constant \npressure and volume)",
+    "options": {
+      "1": "2",
+      "2": "2",
+      "3": "2",
+      "4": "2"
+    },
+    "answer": "4",
+    "solution": "Sol. \nwithout vibration :f = 5 :\n1\n = 1. 4 \nwithout vibration : f = 7 :\n2\n = 1.14 \n\n2\n <\n \n1"
+  },
+  {
+    "question_number": 34,
+    "subject": "Physics",
+    "question": "A rectangular  metallic loop is moving out of a\nuniform magnetic field region to \na \nfield free region\nwith a constant speed. When the loop is partially\ninside the magnate field, the plot of magnitude of\ninduced emf (\n) with time (t) is given by",
+    "options": {
+      "1": "",
+      "2": "",
+      "4": ""
+    },
+    "answer": "4",
+    "solution": ""
+  },
+  {
+    "question_number": 35,
+    "subject": "Physics",
+    "question": "A light source of wavelength \n illuminates a met al\nsur face and electrons ar e ej ected with maximum\nkinetic energy of 2 eV. If the same surface is\nilluminated by a light source of wavelength \n, \nthen the maximumkinetic energy ofejected \nelectrons willbe(Theworkfunctionofmetal is1 eV)",
+    "options": {
+      "1": "2 eV",
+      "2": "6 eV",
+      "3": "5 eV",
+      "4": "3 eV"
+    },
+    "answer": "3",
+    "solution": "Sol. \n \n \n......(1) \nk\nm\nax\n = 5eV"
+  },
+  {
+    "question_number": 36,
+    "subject": "Physics",
+    "question": "Given below are two statements. One is labelled as\nAssertion (A) \nand the other is labelled as \nReason (R).\nAssertion (A) : \nA simple pendul um is taken to a \nplanet of mass and radius, 4 times and 2 times, \nrespectively, than the Earth. The time period of the \npendulum remains same on earth and the planet. \nReason (R) : \nThe mass of the pendulum remai ns \nunchanged at Earth and the other planet. In the light \nof the above statements, choose the \ncorrect\n answer \nfrom the options given below :",
+    "options": {
+      "1": "Both",
+      "4": "Both"
+    },
+    "answer": "1",
+    "solution": "Sol. \nA is correct, R is correct ; but since T = \ndoesn't depend on mass ; R doesn't explai n A."
+  },
+  {
+    "question_number": 37,
+    "subject": "Physics",
+    "question": "The torque due to the force \nabout  the\norigin, acting on a particl e whose position vector is\n, would be",
+    "options": {},
+    "answer": "3",
+    "solution": "Sol."
+  },
+  {
+    "question_number": 38,
+    "subject": "Physics",
+    "question": "To obtain the given truth table, following logic \nNTA",
+    "options": {},
+    "answer": "1",
+    "solution": "Sol. \nFor NOR gate :  \ngat e should be placed at  G : \n(1)NOR Gate(2)AND Gate\n(3)NAND Gat e(4)OR Gate"
+  },
+  {
+    "question_number": 39,
+    "subject": "Physics",
+    "question": "A force \n is applied on a particle and\nit under goes a displacement \n. What will\nbe the value of b, if work done on the particle is\nzero.",
+    "options": {
+      "1": "0",
+      "2": "",
+      "3": "",
+      "4": "2"
+    },
+    "answer": "2",
+    "solution": "Sol. \nWD = \n \n b ="
+  },
+  {
+    "question_number": 40,
+    "subject": "Physics",
+    "question": "Given below ar e two statements. On is labelled as\nAssertion (A)\n and the other is labelled as \nReason (R).\nAssertion (A) :\n \n\nthe fringes produced by red light ar e closer as\ncom par ed to those produced by blue light.\nReason (R) :\n The fringe width is directly\nproportional to the wavelength of light.\nIn the light of above statements, choose the\n\ncorrect\n answer from the options given bel ow :",
+    "options": {
+      "1": "Both",
+      "3": "Both"
+    },
+    "answer": "2",
+    "solution": "Sol. \n \n&"
+  },
+  {
+    "question_number": 41,
+    "subject": "Physics",
+    "question": "A ball of mass 100 g is projected with velocity\n20 m/s at 60\u00b0 with horizontal. The decrease in\nkinetic ener gy of the ball during the motion from\npoint of projection to highest point is :",
+    "options": {
+      "1": "20 J",
+      "2": "15 J",
+      "3": "zer o",
+      "4": "5 J"
+    },
+    "answer": "2",
+    "solution": "Sol."
+  },
+  {
+    "question_number": 42,
+    "subject": "Physics",
+    "question": "A transparent  film of refractive i ndex, 2.0 is coated\non a glass slab of refractive index, 1.45. What is\nthe minimum thickness of transparent film to be\ncoated for the maximum transmission of Green\nlight of wavelength 550 nm. [Assume that  the light\nis inci dent  nearly perpendicular to the glass\nsur face.]",
+    "options": {
+      "1": "94.8 nm",
+      "2": "68.7 nm",
+      "3": "137.5 nm",
+      "4": "275 nm"
+    },
+    "answer": "3",
+    "solution": "Sol. \nFor transmitted green light to be maxima, reflected \ngreen should be minima."
+  },
+  {
+    "question_number": 43,
+    "subject": "Physics",
+    "question": "The tube of length L is shown in the figure. The \nradius of cross section at the point",
+    "options": {
+      "1": "2 m/s",
+      "2": "4 m/s",
+      "3": "6 m/s",
+      "4": "8 m/s"
+    },
+    "answer": "4",
+    "solution": "Sol. \n \nV\n2\n = 8 m/s"
+  },
+  {
+    "question_number": 44,
+    "subject": "Physics",
+    "question": "Given are statements for certain thermodynamic\nvar iables,\n(A)Internal energy, volume (V) and mass (M) ar e\next ensive variables.\n(B)Pressure (P), temperature (T) and density (\n)\nar e intensive variables.\n(C)Volume (V), temperature (T) and density (\n)\nar e intensive variables.\n(D) Mass (M) , tem per ature (T) and internal ener gy\nar e extensive variables.\nChoose the \ncorrect\n answer from the points given \nbel ow :",
+    "options": {},
+    "answer": "3",
+    "solution": "Sol. \nExtensive variables depends on size or mass of \nsystem  ex : internal energy, volume, mass"
+  },
+  {
+    "question_number": 45,
+    "subject": "Physics",
+    "question": "A body of mass 100 g is moving in circular pat h of\nradius 2 m on vertical plane as shown in figure.\nThe velocity of the body at point A is 10 m/s. The\n\nratio of its kinetic ener gies at  point B and C is :\n(Takeacceleration due to gravity as 10 m/s\n2\n)",
+    "options": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    "answer": "3",
+    "solution": "Sol. \n+ m g\n100 = \nK.E\nB\n \n=\n100 = V\nC\n2\n = 60\nV\nC\n2\n = 40\nK.E\nC\n \n=\nK.E\nB\n \n=\n \n="
+  },
+  {
+    "question_number": 46,
+    "subject": "Physics",
+    "question": "A proton is moving undeflect ed in a region of\ncr ossed electric and magnet ic fiel ds at  a constant\nspeed of 2 \u00d7 10\n5\n \nms\n1\n. When the el ectric field is\nswitched off, the proton moves along a circular\npat h of radi us 2 cm. The magnitude of electric field\n\nis x \u00d7 10\n4\n N/C. the value of x is _____.\nTake the mass of  the proton = 1.6 \u00d7 10\n27\n kg.",
+    "options": {},
+    "answer": "2",
+    "solution": "Sol. \nFor uniform speed V = \nR \n= \n= \nE =\n= \n= 2 \u00d7 10\n4\n N/C."
+  },
+  {
+    "question_number": 47,
+    "subject": "Physics",
+    "question": "Two long par allel  wires X and Y, separ ated by a\ndistance of 6 cm , carry currents of 5A and 4A,\nrespectively, in opposite directions as shown in the\nfigure. Magnitude of the resultant magnetic field at\n\npoint P at a distance of 4 cm from wire Y is x \u00d7 10\n5 \nT.\nThe value of x is ________. Take permeability of\nfree space as \n0\n = 4\n \u00d7 10\n7\n SI units.",
+    "options": {},
+    "answer": "1",
+    "solution": "Sol.\n \nB = \n= \n \n= \n 100 \u00d7 10\n7\n \n= \n1 \u00d7 10\n5\n T"
+  },
+  {
+    "question_number": 48,
+    "subject": "Physics",
+    "question": "A par allel plate capacitor of area A = 16 cm\n2 \nand\nseparation between the plates 10 cm, is char ged by\na DC cur rent. Consider a hypothetical plane\nsur face of area A\n0\n = 3.2 cm\n2\n inside the capacitor\nand parallel  to the plates. At an instant, the current\nthrough the circuit is 6A. At the same instant the\n\ndisplacement  current through A\n0\n is ________ mA.",
+    "options": {},
+    "answer": "1200",
+    "solution": "Sol.\n J\nd\n \n= \nI through small area = J\nd\n \n\u00d7 \n\n \u00d7 3.2 = \n1.2A =1200mA"
+  },
+  {
+    "question_number": 49,
+    "subject": "Physics",
+    "question": "A tube of length 1m is filled completely with an\nideal liquid of mass 2M, and cl osed at both ends.\nThe tube is rotated uniformly in horizontal plane\nabout  one of its ends. If the force exerted by the\nliquid at the other  end is F then angular  vel ocity of\nthe tube is \nin SI unit. The val ue of \n is \n______.",
+    "options": {},
+    "answer": "1",
+    "solution": "Sol. \nF = 2M\n2\n \n= Mw\n2\n \n="
+  },
+  {
+    "question_number": 50,
+    "subject": "Physics",
+    "question": "The net  current flowing in the given circuit is\n_______ A.",
+    "options": {},
+    "answer": "1",
+    "solution": "Sol.\n \nR\neq\n = 2\n \nI = \n = 1A"
+  },
+  {
+    "question_number": 51,
+    "subject": "Chemistry",
+    "question": "Arrange the following compounds in increasing\norder of their dipole moment :\nHBr, H\n2\nS, NF\n3\n and CHCl\n3",
+    "options": {
+      "1": "NF",
+      "2": "HBr < H",
+      "3": "H",
+      "4": "CHCl"
+    },
+    "answer": "1",
+    "solution": "Sol. \nIncr easing order of Dipole mo ment \n   \nNF\n3\n  <  \nHBr\n  \n<  H\n2\nS  <  CHCl\n3\n \n\n= 0.24D   0.79D    0.95D    1.04D\nIt is NCERT Data Based"
+  },
+  {
+    "question_number": 52,
+    "subject": "Chemistry",
+    "question": "Identify the number of structure/s from the following\nwhich can be correlated to D-glyceraldehyde.",
+    "options": {
+      "1": "three",
+      "2": "t",
+      "3": "four",
+      "4": "one"
+    },
+    "answer": "1",
+    "solution": "Sol."
+  },
+  {
+    "question_number": 53,
+    "subject": "Chemistry",
+    "question": "The maximu m coval ency of a non-met al lic group\n\n15 element  'E' with weakest E\nE bond is :",
+    "options": {
+      "1": "5",
+      "2": "3",
+      "3": "6",
+      "4": "4"
+    },
+    "answer": "4",
+    "solution": "Sol.\n \nN \n N < P \n P : single (\n) \nbond st\nrength \nDue t o L.P.-L.P. replusion \nand maxi mu m possible coval ency of nitrogen is 4."
+  },
+  {
+    "question_number": 54,
+    "subject": "Chemistry",
+    "question": "Consider  the given figure and choose the \ncorrect\noption :",
+    "options": {
+      "1": "Activation energy of backwar d reaction is E",
+      "2": "Activation energy of forward reaction is",
+      "3": "Activation energy of forward reaction is E",
+      "4": "Act ivation energy of both forwar d and"
+    },
+    "answer": "3",
+    "solution": "Sol. \nAct ivation ener gy of forward reaction = E\n1\n + E\n2\n \nEnergy of product  >Energy of reactant \nStability  \nReactant  > Product"
+  },
+  {
+    "question_number": 55,
+    "subject": "Chemistry",
+    "question": "When sec-butylcycl ohexane reacts with bromine in\nthe presence of sunlight, the major product is :",
+    "options": {
+      "2": "",
+      "4": ""
+    },
+    "answer": "4",
+    "solution": "Sol."
+  },
+  {
+    "question_number": 56,
+    "subject": "Chemistry",
+    "question": "The species whichdoes not under go \ndisproportionation reaction is :",
+    "options": {
+      "1": "",
+      "2": "",
+      "3": "ClO",
+      "4": ""
+    },
+    "answer": "2",
+    "solution": "Sol.\n \n x + {(\n2) \u00d7 4} = \n 1 \n x = \n+7\nChlorine is in its maxi mum oxidat ion state, so \ndisproportionation not possible i n \n."
+  },
+  {
+    "question_number": 57,
+    "subject": "Chemistry",
+    "question": "Match the Compounds \n(List-\nI)\n with the\nappr opriate Catal yst/Reagents \n(List-II)\n for their \nredu\nct\nion into corresponding amines. \nList\n-\nI\n \n(Compounds)\n \nList\n-\nII\n \n(Cata lyst/Reag ents)\n \n(A)\n \n(I)\nNaOH (aqueous)\n(B)\n(II)\nH\n2\n/Ni\n(C)\nR\nC\nN\n(III)\nLiAlH\n4\n, H\n2\nO\n(D)\n \n(IV )\nSn, HCl\nChoose the \ncorrect\n answer from the options given \nbel ow :",
+    "options": {},
+    "answer": "4",
+    "solution": ""
+  },
+  {
+    "question_number": 58,
+    "subject": "Chemistry",
+    "question": "The maxi mu m nu mber  of RBr produci ng \n2-met h ylbutane by above sequence of reactions is\n_____. (Consider the structural isomer s only)",
+    "options": {
+      "1": "4",
+      "2": "5",
+      "3": "3",
+      "4": "1"
+    },
+    "answer": "1",
+    "solution": "Sol."
+  },
+  {
+    "question_number": 59,
+    "subject": "Chemistry",
+    "question": "Match \nList-I\n with \nList-\nII\n.\nList\n-\nI\n \n(Partial \nDerivatives)\n \nList\n-\nII\n \n(Thermodynamic \nQuantity)\n \n(A)\n \n(I)\n \nC\nP\n \n(B)\n \n(II)\n \nS\n(C)\n \n(III)\n \nC\nV\n \n(D)\n \n(IV )\n \nV\n \nChoose the \ncorrect\n answer from the options given \nbel ow :",
+    "options": {},
+    "answer": "2",
+    "solution": "Sol. \n(A) dG =V dP \n SdT \n      Constant pressure \n      dG \n= \n S\ndT\n \n \n= \nS \n(B)dH =(dq)\nP\n = nCpdT\n(C)dG =V dP \n SdT\nAt constant temperat ure\n      dG =V dP \n(D)dU = nC\nV\ndT = (q)\nV"
+  },
+  {
+    "question_number": 60,
+    "subject": "Chemistry",
+    "question": "The correct order of the following complexes in\nter ms of  their cr ystal field stabilizat ion energies is :",
+    "options": {
+      "1": "[ Co",
+      "2": "[ Co",
+      "3": "[ Co",
+      "4": "[ Co"
+    },
+    "answer": "2",
+    "solution": "Sol.\n Order  of CFSE \nSFL : NH\n3\n < en"
+  },
+  {
+    "question_number": 61,
+    "subject": "Chemistry",
+    "question": "Density of 3 M NaCl solution is 1.25 g/mL. The\nmolal ity of the solution is :",
+    "options": {
+      "1": "1.79 m",
+      "2": "2 m",
+      "3": "3 m",
+      "4": "2.79 m"
+    },
+    "answer": "4",
+    "solution": "Sol. \n3M NaCl, d\nsol\n = 1.25 gm/mol \nMolality = \n= \n = 2.79"
+  },
+  {
+    "question_number": 62,
+    "subject": "Chemistry",
+    "question": "The molar solubility(s)  of zirconium phosphate\nwith molecular formula (Zr\n4+\n)\n3\n \n is given \nby rel ation :",
+    "options": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    "answer": "1",
+    "solution": "Sol.\n \nZr\n3\n(PO\n4\n)\n4\n(s)  \n3Zr\n+4\n(aq)  + 4PO\n4\n3\n(aq)\n    \n3s       \n4s\n \nK\nsp\n =(3s)\n3\n (4s)\n4\n =6912 s\n7\ns ="
+  },
+  {
+    "question_number": 63,
+    "subject": "Chemistry",
+    "question": "The most stable carbocation from the following is :",
+    "options": {
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    "answer": "1",
+    "solution": "Sol. \nDue t o +M effect of \nOMe at  para position"
+  },
+  {
+    "question_number": 64,
+    "subject": "Chemistry",
+    "question": "Given below are two statements :\nStat ement (I) :\n \nAn\n element  in the extreme left of \nthe periodic table forms acidic oxides. \nStatement (II) :\n Acid is formed during the reaction \nbetween water and oxide of a reactive element \npresent in the extreme right of the periodic table. \nIn the light of the above statement s, choose the \ncorrect\n answer from the options given below :",
+    "options": {
+      "1": "Statement-I",
+      "2": "Both",
+      "3": "Statement-I",
+      "4": "Both"
+    },
+    "answer": "1",
+    "solution": "Sol. \nStatement-I : False but Statement-II is tru\ne.\n \nOn\n mo ving lef t to right in periodic table non-\nmet al lic char acter  increases and we know that non-\nmet al  oxides ar e acidc in nature. \nNon metal lic character  \nAci dic strength of oxide"
+  },
+  {
+    "question_number": 65,
+    "subject": "Chemistry",
+    "question": "Given below are two statements :\nStat ement (I) :\n A spectral  line will be observed f or\na 2p\nx\n \n 2p\ny\n t\nransition.\nStat ement (II) :\n 2p\nx\n and 2p\ny\n ar e degenerate\norbitals.\nIn the light of the above statement s, choose the\ncorrect\n answer from the options given below :",
+    "options": {
+      "1": "Both",
+      "2": "Both",
+      "3": "Statement-I",
+      "4": "Statement-I"
+    },
+    "answer": "4",
+    "solution": "Sol. \nNo spectral line will be observed for a 2p\nx\n \n 2p\ny\n \ntransition because 2p\nx\n and 2p\ny\n orbitals are \ndegenerate orbitals."
+  },
+  {
+    "question_number": 66,
+    "subject": "Chemistry",
+    "question": "Given bel ow are two statement  :\nStat ement (I) : \nNitrogen, sulphur, halogen and\nphosphorus present  in an organi c compound are\n \nStat ement (II) : \nThe element s present in the\ncompound ar e converted from covalent form into\nionic form by fusing the compound with\n \nIn the light of the above statement s, choose the\ncorrect\n answer from the options given below :",
+    "options": {
+      "1": "Both Statement  I and Stat ement  II ar e t rue",
+      "2": "Bo",
+      "3": "Statement  I is true but Statement  II is false",
+      "4": "Statement  I is false but Statement"
+    },
+    "answer": "3",
+    "solution": "Sol. \nThe element s present in the compound are \nconver ted from covalent form into ionic form b y \n\n \ntest"
+  },
+  {
+    "question_number": 67,
+    "subject": "Chemistry",
+    "question": "Identify the homoleptic complex(es) that is/are low spin.\n(A)[Fe(CN)\n5\nNO]\n2\n(B)[CoF\n6\n]\n3\n(C)[Fe( CN)\n6\n]\n4\n(D)[Co(NH\n3\n)\n6\n]\n3+\n(E) [ Cr(H\n2\nO)\n6\n]\n2+\nChoose the \ncorrect\n answer from the options given \nbel ow :",
+    "options": {},
+    "answer": "3",
+    "solution": "Sol.\n  (A) [Fe( CN)\n5\nNO]\n2\n \n Het eroleptic, Fe\n+2\n, 3d\n6\n,\nt\n2g\n6\ne\ng\n0\n, d\n2\nsp\n3\n, Low spin (3d series + SFL)\n(B)[CoF\n6\n]\n3\n \n Homoleptic, sp\n3\nd\n2\n, High spin,\nCo\n+3\n, 3d\n6\n (3d series + WFL) \n(C)[Fe( CN)\n6\n]\n4\n \n Homoleptic\nFe\n+2\n, 3d\n6\n, d\n2\nsp\n3\n, t\n2g\n6\n \neg\n0\n  Low spin\n(3d series + SFL) \n(D)[Co(NH\n3\n)\n6\n]\n+3\n \n Homo leptic, Co\n+3\n  \n3d\n6\n, \nd\n2\nsp\n3\n,\nt\n2g\n6\n \neg\n0\n, Low spin (3d series + SFL)\n(E) [ Cr(H\n2\nO)\n6\n]\n+2\n \n Homoleptic\nCr\n+2\n  3d\n4\n, d\n2\nsp\n3\n, High spin t\n2g\n3\n e\ng\n1\n(3d series + WFL)"
+  },
+  {
+    "question_number": 68,
+    "subject": "Chemistry",
+    "question": "Residue ( A) + HCl (dil.) \n Compound (B) \nFormed respectivel y is :  \n        \n[A] \n  [B]",
+    "options": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    "answer": "4",
+    "solution": "Sol."
+  },
+  {
+    "question_number": 69,
+    "subject": "Chemistry",
+    "question": "Given below are two statements :\nStat ement (I)  : \nCorrosion is an electrochemical\nphenomenon in which pure met al  acts as an anode\nand i mpure met al as a cathode.\nStat ement (II) : \nThe rate of corrosion is more in\nal kal ine medi um than in acidic medi um.\nIn the light of the above statement s, choose the\n\ncorrect\n answer from the options given below :",
+    "options": {
+      "1": "Both Statement  I and Stat ement  II ar e f alse",
+      "2": "Statement  I is false but Statement  II is true",
+      "3": "Both Statement  I and Stat ement  II ar e t rue",
+      "4": "Statement  I is true but Statement"
+    },
+    "answer": "4",
+    "solution": ""
+  },
+  {
+    "question_number": 70,
+    "subject": "Chemistry",
+    "question": "The al kane from bel ow having two secondar y\nhydrogens is :",
+    "options": {
+      "1": "4-Ethyl-3,4-dimet hyloctane",
+      "2": "2,2,4,4-Tetramet hylhexane",
+      "3": "2,2,3,3-Tetramet hylpentane",
+      "4": "2,2,4,5-Tetramet hylheptane"
+    },
+    "answer": "3",
+    "solution": "Sol.     \nAlkane\n \n2\u00b0H"
+  },
+  {
+    "question_number": 1,
+    "subject": "Chemistry",
+    "question": "10",
+    "options": {},
+    "answer": null,
+    "solution": ""
+  },
+  {
+    "question_number": 2,
+    "subject": "Chemistry",
+    "question": "4",
+    "options": {},
+    "answer": null,
+    "solution": ""
+  },
+  {
+    "question_number": 3,
+    "subject": "Chemistry",
+    "question": "2",
+    "options": {},
+    "answer": null,
+    "solution": ""
+  },
+  {
+    "question_number": 4,
+    "subject": "Chemistry",
+    "question": "4 \nSECTION-B",
+    "options": {},
+    "answer": null,
+    "solution": ""
+  },
+  {
+    "question_number": 71,
+    "subject": "Chemistry",
+    "question": "The compound with mo lecular formula C\n6\nH\n6\n,\nwhich gives only one mo nobromo derivative and\ntakes up four moles of hydrogen per  mole for\ncomplet e hydrogenation has _______ \n el ectrons.\n\n  \nSol.",
+    "options": {},
+    "answer": null,
+    "solution": ""
+  },
+  {
+    "question_number": 72,
+    "subject": "Chemistry",
+    "question": "ctrons in their respective 4d\norbitals. The val ue of x + y is _______",
+    "options": {},
+    "answer": "11",
+    "solution": "Sol.\n  Z = 41 \n Nb (Niobium) : [K r]\n36\n 4d\n4\n 5s\n1\nNumber  of electron in 4d = 4 = x \nZ = 44 \n Ru (Ruthenium) [Kr]\n36\n 4d\n7\n \n5s\n1\nNumber  of electron in 4d = 7 = y \nx + y = 11"
+  },
+  {
+    "question_number": 73,
+    "subject": "Chemistry",
+    "question": "The complex of Ni\n2+\n ion and dimet hyl glyoxime\ncont ains ______ number  of Hydrogen ( H) atoms.",
+    "options": {},
+    "answer": "14",
+    "solution": "Sol. \n[Ni(dmg)\n2\n] \nNumber  of H-at o m = 14"
+  },
+  {
+    "question_number": 74,
+    "subject": "Chemistry",
+    "question": "Consider  the following cases of standard enthalpy\nof reaction \nThe magnitude of\nis ______ kJ mol\n1\n(Nearest integer).",
+    "options": {},
+    "answer": "95",
+    "solution": "Sol. \n2C\n(graphite)\n + 3H\n2\n(g) \n C\n2\nH\n6\n(g)   \nH\nf\n  = ? \nC\n2\nH\n6\n(g) + \n O\n2\n(g) \n 2CO\n2\n(g) + 3H\n2\nO(\nl\n) \nH\n1\n \n= \n 1550\nC\n(graphite)\n + O\n2\n(g) \n\nCO\n2\n(g)  \nH\n2\n \n= \n 393.5 \nH\n2\n(g) + \nO\n2\n(g) \n\nH\n2\nO(/)  \nH\n3\n \n= \n 286 \nH\nf\n = 2\nH\n2\n + 3\nH\n3\n \n \nH\n1\n= 95 kJ/mole."
+  },
+  {
+    "question_number": 75,
+    "subject": "Chemistry",
+    "question": "20 mL of 2 M NaOH solution is added to 400 mL\nof 0.5 M NaOH solution. The final concentration\n\nof the solution is ______ \u00d7 10\n2\n M. (Nearest\ninteger ).",
+    "options": {},
+    "answer": "57",
+    "solution": "Sol. \nM\nF\n \n= \n = 0.571M \n= 57.1 \u00d7 10\n2\n M \n= 57"
+  }
+]
